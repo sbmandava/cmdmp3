@@ -16,5 +16,7 @@ if you don't have admin rights
 * $ wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
 * $ cd <your mp3 subdirectory/folder>
 * $ ./mp3cli
+ 
+* to stop player CTRL-C
 
 Based on [go-mp3](https://github.com/hajimehoshi/go-mp3)
