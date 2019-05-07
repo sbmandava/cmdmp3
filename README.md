@@ -10,8 +10,9 @@ if you have admin right
 * $ wget -P /usr/local/bin https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
 
 * $ cd <your mp3 subdirectory/folder>
-   // if you don't have admin rights
-   wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
+
+  if you don't have admin rights
+  wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
 
 * $ mp3cli
 
