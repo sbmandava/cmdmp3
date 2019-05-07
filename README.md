@@ -7,14 +7,16 @@ Executes recursive folder scan and picks up all mp3 files found.
 
 MAC Instructions.
 
-if you have admin right
+if you have admin rights
 * $ wget -P /usr/local/bin https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
+* $ chmod 755 /usr/local/bin/mp3cli
 * $ cd <your mp3 subdirectory/folder>
 * mp3cli
 
 if you don't have admin rights
-* $ wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
 * $ cd <your mp3 subdirectory/folder>
+* $ wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
+* $ chmod 755 ./mp3cli
 * $ ./mp3cli
  
 * to stop player CTRL-C
