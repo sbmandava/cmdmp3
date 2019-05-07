@@ -1,4 +1,4 @@
-# cmdmp3
+# mp3cli
 
 Simple commandline mp3 player for MAC and Windows.
 
