@@ -14,11 +14,12 @@ if you have admin rights
 * $ mp3cli
 
 if you don't have admin rights
-* $ cd <your mp3 subdirectory/folder>
-* $ wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli
-* $ chmod 755 ./mp3cli
-* $ ./mp3cli
- 
-* to stop player CTRL-C
+* $ cd <your mp3 subdirectory/folder>  
+* $ wget https://github.com/sbmandava/mp3cli/blob/master/bin/mac/mp3cli  
+* $ chmod 755 ./mp3cli  
+* $ ./mp3cli  
+
+
+to stop player CTRL-C
 
 Based on [go-mp3](https://github.com/hajimehoshi/go-mp3)
