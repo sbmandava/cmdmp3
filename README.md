@@ -3,6 +3,7 @@
 Simple commandline mp3 player for MAC and Windows.
 
 Don't need admin privilages to run or install
+
 Executes recursive folder scan and picks up all mp3 files found.
 
 ** MAC Instructions. **
